@@ -5,6 +5,7 @@ restaurant's menu, awards and contact information.
   </p>
 
 #DEPENDENCIES
+
     testing-library/jest-dom": "5.16.5"
     testing-library/react": "13.4.0"
     testing-library/user-event": "13.5.0"
@@ -16,7 +17,9 @@ restaurant's menu, awards and contact information.
 
 #AUTHORS 
 <p>
-Christos Papasteriou aka Versatilelr Email: cpapaster@gmail.com
+Christos Papasteriou aka Versatilelr 
+  <br>
+  Email: cpapaster@gmail.com
  </p>
  
  
